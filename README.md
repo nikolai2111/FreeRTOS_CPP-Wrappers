@@ -9,9 +9,9 @@
 - [6. Project status](#6-project-status)
 
 ## 2. Description
-This are some basic wrappers to use FreeRTOS with C++.
+These are some basic wrappers to use FreeRTOS with C++.
 
-This is very practical if you want to write C++ code for the STM32G474. These wrappers are also the reason for the main.cpp file.
+This is very handy if you want to write C++ code for the STM32G474. These wrappers are also the reason for the main.cpp file.
 
 ## 3. Usage
 To make optimal use of this repository, it is easiest to fork this [repository](https://github.com/nikolai2111/STM32G474_FreeRTOS_Template). You can then use the repository as a template for other projects on GitHub. To do this, you can simply select it from the repository template drop-down when you create a new repository.
